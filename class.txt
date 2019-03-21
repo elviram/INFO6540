@@ -1,4 +1,8 @@
-The Iliad
+The Iliad, by Homer
+
+This 1899 translation of Homer's The Iliad by B.H. Stanton is available under a Public Domain license. The text was retrieved from the University of South Florida's Lit2Go database on March 21st, 2019: https://etc.usf.edu/lit2go/117/the-iliad/1999/book-1-the-contention-of-achilles-and-agamemnon/
+
+This repository is (c) 2019 Elvira and is made available under the MIT License (see LICENSE file).
 
 BOOK I.
 ARGUMENT.40
