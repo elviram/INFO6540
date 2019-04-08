@@ -1,4 +1,5 @@
 Title: The Iliad of Homer
+Copyright: This work is in the public domain.
 Author: Homer
 
 BOOK I.
