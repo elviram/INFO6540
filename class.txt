@@ -32,15 +32,6 @@ Extends the sceptre and the laurel crown
 He sued to all, but chief implored for grace
 The brother-kings, of Atreus' royal race
 
-"Ye kings and warriors! may your vows be crown'd,
-And Troy's proud walls lie level with the ground.
-May Jove restore you when your toils are o'er
-Safe to the pleasures of your native shore.
-But, oh! relieve a wretched parent's pain,
-And give Chryseis to these arms again;
-If mercy fail, yet let my presents move,
-And dread avenging Phoebus, son of Jove."
-
 The Greeks in shouts their joint assent declare,
 The priest to reverence, and release the fair.
 Not so Atrides; he, with kingly pride,
@@ -58,3 +49,4 @@ In daily labours of the loom employ'd,
 Or doom'd to deck the bed she once enjoy'd
 Hence then; to Argos shall the maid retire,
 Far from her native soil and weeping sire."
+
