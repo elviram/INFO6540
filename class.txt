@@ -1,5 +1,35 @@
 Title: THE ILIAD
 
+Author: Homer
+
+Translated by Alexander Pope
+
+Release Date: September 2006 [Ebook #6130]
+Last updated: October 27, 2019
+
+The Project Gutenberg EBook of The Iliad, by Homer
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+
+
 BOOK I.
 ARGUMENT.40
 
@@ -60,10 +90,6 @@ In daily labours of the loom employ'd,
 Or doom'd to deck the bed she once enjoy'd
 Hence then; to Argos shall the maid retire,
 Far from her native soil and weeping sire."
-
-
-
-                         HOMER INVOKING THE MUSE.
 
 The trembling priest along the shore return'd,
 And in the anguish of a father mourn'd. 
