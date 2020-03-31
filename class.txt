@@ -7,7 +7,11 @@ THE CONTENTION OF ACHILLES AND AGAMEMNON.
 
 In the war of Troy, the Greeks having sacked some of the neighbouring towns, and taken from thence two beautiful captives, Chryseis and Briseis, allotted the first to Agamemnon, and the last to Achilles. Chryses, the father of Chryseis, and priest of Apollo, comes to the Grecian camp to ransom her; with which the action of the poem opens, in the tenth year of the siege. The priest being refused, and insolently dismissed by Agamemnon, entreats for vengeance from his god; who inflicts a pestilence on the Greeks. Achilles calls a council, and encourages Chalcas to declare the cause of it; who attributes it to the refusal of Chryseis. The king, being obliged to send back his captive, enters into a furious contest with Achilles, which Nestor pacifies; however, as he had the absolute command of the army, he seizes on Briseis in revenge. Achilles in discontent withdraws himself and his forces from the rest of the Greeks; and complaining to Thetis, she supplicates Zeus to render them sensible of the wrong done to her son, by giving victory to the Trojans. Zeus, granting her suit, incenses Juno: between whom the debate runs high, till they are reconciled by the address of Vulcan.
 
+QuarantineBranch
 The time of two-and-twenty days is taken up in this book: nine during the plague, one in the council and quarrel of the princes, and twelve for Zeus's stay with the Æthiopians, at whose return Thetis prefers her petition. The scene lies in the Grecian camp, then changes to Chrysa, and lastly to Olympus.
+
+The time of two-and-twenty days is taken up in this book: nine during the plague, one in the council and quarrel of the princes, and twelve for Jupiter’s stay with the Æthiopians, at whose return Thetis prefers her petition. The scene lies in the Grecian camp, then changes to Chrysa, and lastly to Olympus.
+master
 
 Achilles' wrath, to Greece the direful spring
 Of woes unnumber'd, heavenly goddess, sing!
@@ -34,10 +38,26 @@ Extends the sceptre and the laurel crown
 He sued to all, but chief implored for grace
 The brother-kings, of Atreus' royal race
 
+QuarantineBranch
 The Greeks in shouts their joint assent declare, 
 The priest to reverence, and release the fair. 
 Not so Atrides; he, with kingly pride, 
 Repulsed the sacred sire, and thus replied: 
+
+“Ye kings and warriors! may your vows be crown’d,
+And Troy’s proud walls lie level with the ground.
+May Jove restore you when your toils are o’er
+Safe to the pleasures of your native shore.
+But, oh! relieve a wretched parent’s pain,
+And give Chryseis to these arms again;
+If mercy fail, yet let my presents move,
+And dread avenging Phoebus, son of Jove.”
+     
+The Greeks in shouts their joint assent declare,
+The priest to reverence, and release the fair.
+Not so Atrides; he, with kingly pride,
+Repulsed the sacred sire, and thus replied:
+master
 
 "Hence on thy life, and fly these hostile plains,
 Nor ask, presumptuous, what the king detains
