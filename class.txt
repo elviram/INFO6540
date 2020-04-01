@@ -32,10 +32,7 @@ Extends the sceptre and the laurel crown
 He sued to all, but chief implored for grace
 The brother-kings, of Atreus' royal race
 
-The Greeks in shouts their joint assent declare,
-The priest to reverence, and release the fair.
-Not so Atrides; he, with kingly pride,
-Repulsed the sacred sire, and thus replied:
+
 
 "Hence on thy life, and fly these hostile plains,
 Nor ask, presumptuous, what the king detains
@@ -85,15 +82,4 @@ For much the Goddess mourn’d her heroes slain.
  
  Th’ assembly seated, rising o’er the rest,	
 Achilles thus the King of Men address’d:	
-  ‘Why leave we not the fatal Trojan shore,	
-And measure back the seas we cross’d before?	        
-The Plague destroying whom the Sword would spare,	
-’T is time to save the few remains of war.	
-But let some prophet or some sacred sage	
-Explore the cause of great Apollo’s rage;	
-Or learn the wasteful vengeance to remove	        
-By mystic dreams, for dreams descend from Jove.	
-If broken vows this heavy curse have laid,	
-Let altars smoke, and hecatombs be paid.	
-So Heav’n atoned shall dying Greece restore,	
-And Phœbus dart his burning shafts no more.’
+  
